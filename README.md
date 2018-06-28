@@ -1,2 +1,2 @@
-# terraform_multiple instances
+# terraform multiple instances
 creating multiple OPC instances
