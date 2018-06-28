@@ -1,2 +1,2 @@
-# opc_terraform_mul
-# creating multiple OPC instances
+# terraform_multiple instances
+creating multiple OPC instances
